@@ -1,5 +1,5 @@
 #  🧶❤️Amor em Fios ❤️🧶
 ---
-## Realizei a criação se um Web Site usando HTML, CSS e JavaScript para uma loja fictÍcia de armarinhos Amor Em Fios
+## Realizei a criação se um Web Site usando HTML, CSS e JavaScript para uma loja fictÍcia de armarinhos Amor Em Fios, realizando á união das minhas paixões Crochê e desenvolvimento de web.
 
 
