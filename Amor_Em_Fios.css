@@ -1,0 +1,73 @@
+body {
+    background-color: #f0ebe7;
+    font-family: 'Pacifico', cursive;
+}
+
+#main {
+    margin-left: 120px;
+}
+
+.w3-sidebar {
+    width: 120px;
+    background: #947481;
+}
+
+.w3-sidebar a {
+    color: white !important;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 70px;
+    color: #D9B8CC;
+}
+
+.slogan {
+    color: #D9B8CC;
+    font-family: 'Pacifico', cursive;
+}
+
+.titulo {
+    color: #ac718e;
+    font-family: 'Pacifico', cursive;
+    text-align: left;
+}
+
+.fundo-amor {
+    background-color: #947481;
+    color: white;
+}
+
+.w3-row-padding img {
+    margin-bottom: 12px;
+    border-radius: 10px;
+}
+
+.w3-white {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
+hr {
+    border-color: #D9B8CC;
+}
+
+@media only screen and (max-width:600px){
+    #main {
+        margin-left: 0;
+    }
+}
+
+   .slide {
+    display: none;
+    animation: fade 1s;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0.4;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
